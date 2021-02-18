@@ -6,7 +6,7 @@
 
 ## 使用
 
-访问 [watermark](http://dir,mydearest.cn/watermark/) 即可使用。
+访问 [watermark](http://dir.mydearest.cn/watermark/) 即可使用。
 
 ## 构建
 
